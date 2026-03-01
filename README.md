@@ -15,7 +15,7 @@ If I were to revise one part of my work, I would focus on refining the UML diagr
 
 Interpreting User Needs-
 
-Understanding user needs was essential in designing the DriverPass system. I focused on identifying what different users—such as customers, staff, and administrators—needed from the platform. For example, customers needed an easy way to schedule lessons and take practice tests, while administrators needed tools to manage operations and track system activity. These needs were reflected in both the business requirements and system design. Considering user needs is critical because a system that does not support its users will not be effective, no matter how technically sound it is. Designing with the user in mind helps ensure usability, efficiency, and long-term success.
+Understanding user needs was essential in designing the DriverPass system. I focused on identifying what different users, foe example, customers, staff, and administrators that were needed from the platform. For example, customers needed an easy way to schedule lessons and take practice tests, while administrators needed tools to manage operations and track system activity. These needs were reflected in both the business requirements and system design. Considering user needs is critical because a system that does not support its users will not be effective, no matter how technically sound it is. Designing with the user in mind helps ensure usability, efficiency, and long-term success.
 
 My Approach to Designing Software-
 
